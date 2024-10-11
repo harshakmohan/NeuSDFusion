@@ -1,5 +1,5 @@
 # NeuSDF
-Implementation of NeuSDF Paper.
+In-Progress & Incomplete Implementation of NeuSDF Paper.
 
 Dataset downloaded from: https://huggingface.co/datasets/ShapeNet/ShapeNetCore
 
